@@ -25,4 +25,4 @@ Este proyecto es un Currículum Vitae interactivo desarrollado para la asignatur
 Este es mi proyecto de CV interactivo desarrollado con HTML, CSS y Bootstrap.
 
 ## Ver en vivo
-Puedes ver el resultado final aquí: [Haz clic aquí para ver mi CV](https://sophie013.github.io/M2C18_CV/)
+Puedes ver el resultado final aquí: [Haz clic aquí para ver mi CV](https://sophie013.github.io/M2C18_CV)
